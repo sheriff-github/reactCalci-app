@@ -1,9 +1,9 @@
 .container{
     text-align: center;
     margin-top: 5%;
-    background-color:#00FF00;
+    background-color:#f7dc6f;
     width: 35%;
-    border-radius: 10%;
+    border-radius: 5%;
 }
 
 .container input{
@@ -17,12 +17,13 @@
 .container button{
     
     text-align: center;
-    padding: 35px;
+    padding: 30px;
     margin-top: 25px;
     font-weight: 1000;
     font-size: larger;
    border-radius: 10%;
    margin-left: 20px;
+   background-color: #cacfd2;
    
 }
 
